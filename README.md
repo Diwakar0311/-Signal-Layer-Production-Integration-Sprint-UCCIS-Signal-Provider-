@@ -112,22 +112,6 @@ Example Response:
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone <repository-url>
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Run Application
 
 Start the FastAPI server:
