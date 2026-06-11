@@ -91,11 +91,20 @@ GET /signal/SIG001
 
 ## Health Check
 
-### GET /health
+```http
+GET /health
+```
 
 Returns the current operational status of the Signal Provider service.
 
 Example Response:
+
+```{
+  "status": "healthy",
+  "service": "signal-provider",
+  "timestamp": "2026-06-11T08:28:11"
+}
+```
 
 {
   "status": "healthy",
