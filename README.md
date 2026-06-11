@@ -65,6 +65,9 @@ GET /signals
 
 Returns all available operational signals.
 
+<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/d2d7cb71-b26d-4d91-915d-2b2fe4736cfa" />
+
+
 ---
 
 ### Get Signal By ID
@@ -80,6 +83,9 @@ Example:
 ```http
 GET /signal/SIG001
 ```
+
+<img width="1364" height="677" alt="image" src="https://github.com/user-attachments/assets/0d73843b-ee07-4594-951d-7c9347b28b60" />
+
 
 ---
 
