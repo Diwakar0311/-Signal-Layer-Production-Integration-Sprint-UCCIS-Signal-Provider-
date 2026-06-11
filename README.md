@@ -99,18 +99,16 @@ Returns the current operational status of the Signal Provider service.
 
 Example Response:
 
-```{
-  "status": "healthy",
-  "service": "signal-provider",
-  "timestamp": "2026-06-11T08:28:11"
-}
 ```
-
 {
   "status": "healthy",
   "service": "signal-provider",
   "timestamp": "2026-06-11T08:28:11"
 }
+```
+<img width="1363" height="680" alt="image" src="https://github.com/user-attachments/assets/7e261739-9753-452c-9128-f9b426b84c24" />
+
+
 
 ---
 
