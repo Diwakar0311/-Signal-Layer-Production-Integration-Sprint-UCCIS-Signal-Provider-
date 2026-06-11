@@ -89,22 +89,19 @@ GET /signal/SIG001
 
 ---
 
-### Health Check
+## Health Check
 
-```http
-GET /health
-```
+### GET /health
 
-Returns service health information.
+Returns the current operational status of the Signal Provider service.
 
-Example response:
+Example Response:
 
-```json
 {
   "status": "healthy",
-  "service": "signal-provider"
+  "service": "signal-provider",
+  "timestamp": "2026-06-11T08:28:11"
 }
-```
 
 ---
 
